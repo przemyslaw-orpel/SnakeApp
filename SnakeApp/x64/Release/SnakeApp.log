@@ -1,0 +1,10 @@
+﻿  SnakeApp.cpp
+d:\users\przemyslaw.orpel\desktop\cpp\snakeapp\snakeapp\snakeapp.cpp(39): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+d:\users\przemyslaw.orpel\desktop\cpp\snakeapp\snakeapp\snakeapp.cpp(175): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+d:\users\przemyslaw.orpel\desktop\cpp\snakeapp\snakeapp\snakeapp.cpp(182): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Trwa generowanie kodu
+  19 of 121 functions (15.7%) were compiled, the rest were copied from previous compilation.
+    12 functions were new in current compilation
+    21 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  SnakeApp.vcxproj -> D:\Users\Przemyslaw.Orpel\Desktop\Cpp\SnakeApp\x64\Release\SnakeApp.exe
